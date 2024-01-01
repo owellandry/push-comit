@@ -6,3 +6,4 @@ Commit del branch branch_1, día 1, hora 12 con fecha 2024-01-02T07:00:00
 Commit del branch branch_1, día 1, hora 15 con fecha 2024-01-02T10:00:00
 Commit del branch branch_1, día 1, hora 18 con fecha 2024-01-02T13:00:00
 Commit del branch branch_1, día 1, hora 21 con fecha 2024-01-02T16:00:00
+Commit del branch branch_1, día 2, hora 0 con fecha 2024-01-01T18:00:00
