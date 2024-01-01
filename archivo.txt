@@ -454,3 +454,4 @@ Commit del branch branch_2, día 6, commit 3 con fecha 2024-01-01T14:00:00
 Commit del branch branch_2, día 6, commit 4 con fecha 2024-01-01T14:00:00
 Commit del branch branch_2, día 6, commit 5 con fecha 2024-01-01T15:00:00
 Commit del branch branch_2, día 6, commit 6 con fecha 2024-01-01T15:00:00
+Commit del branch branch_2, día 6, commit 7 con fecha 2024-01-01T15:00:00
