@@ -293,3 +293,4 @@ Commit del branch branch_2, día 4, commit 22 con fecha 2024-01-01T21:00:00
 Commit del branch branch_2, día 4, commit 23 con fecha 2024-01-01T21:00:00
 Commit del branch branch_2, día 4, commit 24 con fecha 2024-01-01T22:00:00
 Commit del branch branch_2, día 4, commit 25 con fecha 2024-01-01T22:00:00
+Commit del branch branch_2, día 4, commit 26 con fecha 2024-01-01T22:00:00
