@@ -675,3 +675,4 @@ Commit del branch branch_2, día 8, commit 44 con fecha 2024-01-01T23:00:00
 Commit del branch branch_2, día 8, commit 45 con fecha 2024-01-01T23:00:00
 Commit del branch branch_2, día 8, commit 46 con fecha 2024-01-02T00:00:00
 Commit del branch branch_2, día 8, commit 47 con fecha 2024-01-02T00:00:00
+Commit del branch branch_2, día 8, commit 48 con fecha 2024-01-02T00:00:00
