@@ -68,3 +68,4 @@ Commit del branch branch_2, día 1, commit 67 con fecha 2024-01-02T12:00:00
 Commit del branch branch_2, día 1, commit 68 con fecha 2024-01-02T12:00:00
 Commit del branch branch_2, día 1, commit 69 con fecha 2024-01-02T13:00:00
 Commit del branch branch_2, día 1, commit 70 con fecha 2024-01-02T13:00:00
+Commit del branch branch_2, día 1, commit 71 con fecha 2024-01-02T13:00:00
