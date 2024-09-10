@@ -84,3 +84,4 @@ Commit del branch branch_2, día 5, commit 8 con fecha
 Commit del branch branch_2, día 5, commit 9 con fecha 
 Commit del branch branch_2, día 5, commit 10 con fecha 
 Commit del branch branch_2, día 6, commit 1 con fecha 
+Commit del branch branch_2, día 6, commit 2 con fecha 
