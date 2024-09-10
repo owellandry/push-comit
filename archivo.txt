@@ -5467,3 +5467,4 @@ Commit del branch branch_2, día 32, commit 22 con fecha
 Commit del branch branch_2, día 32, commit 23 con fecha 
 Commit del branch branch_2, día 32, commit 24 con fecha 
 Commit del branch branch_2, día 32, commit 25 con fecha 
+Commit del branch branch_2, día 32, commit 26 con fecha 
