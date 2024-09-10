@@ -6195,3 +6195,4 @@ Commit del branch branch_2, día 40, commit 30 con fecha
 Commit del branch branch_2, día 40, commit 31 con fecha 
 Commit del branch branch_2, día 40, commit 32 con fecha 
 Commit del branch branch_2, día 40, commit 33 con fecha 
+Commit del branch branch_2, día 40, commit 34 con fecha 
