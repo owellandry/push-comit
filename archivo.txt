@@ -6928,3 +6928,4 @@ Commit del branch branch_2, día 48, commit 43 con fecha
 Commit del branch branch_2, día 48, commit 44 con fecha 
 Commit del branch branch_2, día 48, commit 45 con fecha 
 Commit del branch branch_2, día 48, commit 46 con fecha 
+Commit del branch branch_2, día 48, commit 47 con fecha 
